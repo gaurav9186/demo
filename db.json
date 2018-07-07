@@ -1,14 +1,36 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+	"emp_id": 1,
+	"emp_name": "Lorelle Jumeau",
+	"department": "Product Management",
+	"gender": "Female",
+	"address": "23 Commercial Pass",
+	"reportees": ["Neda Walewicz", "Jemmie Chander", "Bobette Halbert"]
+}, {
+	"emp_id": 2,
+	"emp_name": "Ingaberg Davids",
+	"department": "Engineering",
+	"gender": "Female",
+	"address": "420 Canary Street",
+	"reportees": ["Kelsy Minocchi", "Jessy Housby", "Isabelle Renish"]
+}, {
+	"emp_id": 3,
+	"emp_name": "Heall Morsley",
+	"department": "Business Development",
+	"gender": "Male",
+	"address": "00881 Waxwing Way",
+	"reportees": ["Octavius Spittal", "Garrick Coyte", "Jeffry Vernau"]
+}, {
+	"emp_id": 4,
+	"emp_name": "Schuyler Stalf",
+	"department": "Training",
+	"gender": "Male",
+	"address": "66843 Kingsford Way",
+	"reportees": ["Rodd Hryniewicki", "Godwin Adao", "Carey Bunney"]
+}, {
+	"emp_id": 5,
+	"emp_name": "Vin Elleton",
+	"department": "Marketing",
+	"gender": "Female",
+	"address": "58 Lien Drive",
+	"reportees": ["Lanni Mullaly", "Karon Hamor", "Phillie Hyndley"]
+}]
